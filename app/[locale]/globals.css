@@ -1,0 +1,16 @@
+.patient_dob{
+    z-index: 2 !important;
+}
+.sign-pad{
+    height: 100%;
+    width: 100%;
+}
+
+/* to hide the scrollbar */
+body::-webkit-scrollbar {
+    display: none;
+}
+/* Hide scrollbar for IE and Edge */
+body {
+    -ms-overflow-style: none;
+}
